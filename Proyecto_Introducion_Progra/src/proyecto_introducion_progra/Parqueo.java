@@ -20,8 +20,8 @@ public class Parqueo {
     //datsos
 
     public Parqueo() {
-        this.nombreParqueo = "Parque El Descanso";
-        this.ubicacion = "sin definir";
+        this.nombreParqueo = "Parqueo torre sur";
+        this.ubicacion = "Escazu";
         this.tarifaEntreSemana = 2500.0;
         this.tarifaFinSeman = 3500.0;
         this.tarifaMensula = 45000.0;
